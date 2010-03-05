@@ -1,5 +1,9 @@
 Revision history for App-Nopaste-Service-Linode
 
+0.03 2010-03-05 13:27:48
+
+    - Don't use the Dist::Zilla Git plugins, they fail
+
 0.02 2010-03-05 13:19:57
 
     - Fix some Dist::Zilla issues

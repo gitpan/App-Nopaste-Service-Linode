@@ -1,5 +1,5 @@
 package App::Nopaste::Service::Linode;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 use strict;
 use warnings;
 use base 'App::Nopaste::Service::AnyPastebin';
