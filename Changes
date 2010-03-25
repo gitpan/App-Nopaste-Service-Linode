@@ -1,5 +1,10 @@
 Revision history for App-Nopaste-Service-Linode
 
+0.06 2010-03-25 11:59:03
+
+    - App-Nopaste-Service-AnyPastebin solved RT#55257. This makes my
+      code a lot simpler.
+
 0.05 2010-03-05 14:05:48
 
     - 0.04 but with updated Changes

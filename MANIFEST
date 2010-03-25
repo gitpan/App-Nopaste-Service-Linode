@@ -1,8 +1,8 @@
 Changes
 LICENSE
 MANIFEST
+META.json
 META.yml
-Makefile.PL
 README
 dist.ini
 lib/App/Nopaste/Service/Linode.pm
